@@ -1,3 +1,3 @@
 ## ALX JAVASCRITP BACKEND
 
-This Repository Contains Javascript Projects
+This Repository Contains Backend Javascript Projects
