@@ -1,4 +1,3 @@
-## ALX JAVASCRIPT BACKEND
-
-# Const Or Let
-Modifying functions to start the declarations using const or let 
+## CONST OR LET 
+# function taskFirst to instantiate variables using const
+# function taskNext to instantiate variables using let
